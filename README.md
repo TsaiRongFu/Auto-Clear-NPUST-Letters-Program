@@ -7,4 +7,5 @@
 
  
 ## 確認Chrome瀏覽器版本是否符合ChromeDriver
-    
+
+![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/ChromeVersion.gif)
