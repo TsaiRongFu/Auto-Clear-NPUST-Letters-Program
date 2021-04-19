@@ -21,7 +21,7 @@
     * 直接下載Auto-Clean-NPUST-Mail-Program.zip
 解壓縮就有了
 
-*   如果Releases(發行版本)中沒有符合您Chrome版本的ChromeDrive請至下chromedriver下載符合您版本的ChromeDrive
+*   如果Releases(發行版本)中沒有符合您Chrome版本的ChromeDrive請至下方連結下載符合您版本的ChromeDrive
 
     * https://chromedriver.chromium.org/
 
