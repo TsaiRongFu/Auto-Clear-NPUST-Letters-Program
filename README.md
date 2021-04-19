@@ -25,5 +25,5 @@
 
     * https://chromedriver.chromium.org/
 
-    * ![image]()
+    * ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/ChromeDriveWebsite.png)
 
