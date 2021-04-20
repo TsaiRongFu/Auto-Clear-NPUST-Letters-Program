@@ -38,24 +38,24 @@ Auto-Clean-NPUST-Mail-Program Folder
 ```
 | 直接點擊運行Auto-Clean-NPUST-Mail-Program.exe即可 |
 
-*   登入分為兩種
-    * 第一種為手動登入   
+*   ### **登入分為兩種**
+    * ### **第一種為手動登入**
 
         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/login.gif)
 
-    * 第二種為自動登入
+    * ### **第二種為自動登入**
 
         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/autoLogin.gif)
 
-*   基本功能-刪除所有信件
+*   ### **基本功能-刪除所有信件**
 
     ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/Delete.gif)
 
-*   基本功能-清空回收筒
+*   ### **基本功能-清空回收筒**
 
     ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/Clean.gif)
 
-*   基本功能-重置網頁及按鈕
+*   ### **基本功能-重置網頁及按鈕**
 
     ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/Reset.gif)
 
