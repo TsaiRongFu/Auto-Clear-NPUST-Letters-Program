@@ -63,3 +63,7 @@ Auto-Clean-NPUST-Mail-Program Folder
 
 ### 目前檔案會google會偵測不安全所屬正常現象！因為我沒有code signing
 ### 至於要不要使用就所屬個人了，這個專案就是無聊做著玩的性質！
+
+---
+
+### 有任何程式的問題或Bug歡迎提出Issues！
