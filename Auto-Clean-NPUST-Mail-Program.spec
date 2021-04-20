@@ -1,6 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-block_cipher = None
+block_cipher = pyi_crypto.PyiBlockCipher(key='82d96a60e60bfb64d042e02e5e7e0e7361ae8a79f78954d5707ab68ba2641544686038d2b1e20ea2740b4663dd91672158d742c9b4c790268c8c82fcd8bf7848')
 
 
 a = Analysis(['Auto-Clean-NPUST-Mail-Program.py'],

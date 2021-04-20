@@ -28,5 +28,38 @@
         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/ChromeDriveWeb.png)
 ## 操作範例(以發行版本中的v1.2為例)
 
+<br>
+下載zip後解壓縮結構如下：
+
+```
+Auto-Clean-NPUST-Mail-Program Folder
+└────Auto-Clean-NPUST-Mail-Program.exe
+└────chromedriver.exe
+```
+| 直接點擊運行Auto-Clean-NPUST-Mail-Program.exe即可 |
+
 *   登入分為兩種
-    * 第一種為手動登入     
+    * 第一種為手動登入   
+
+        ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/login.gif)
+
+    * 第二種為自動登入
+
+        ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/autoLogin.gif)
+
+*   基本功能-刪除所有信件
+
+    ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/Delete.gif)
+
+*   基本功能-清空回收筒
+
+    ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/Clean.gif)
+
+*   基本功能-重置網頁及按鈕
+
+    ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/Reset.gif)
+
+<br>
+
+### 目前檔案會google會偵測不安全所屬正常現象！因為我沒有code signing
+### 至於要不要使用就所屬個人了，這個專案就是無聊做著玩的性質！
