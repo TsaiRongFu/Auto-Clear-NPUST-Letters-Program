@@ -66,4 +66,4 @@ Auto-Clean-NPUST-Mail-Program Folder
 
 ---
 
-### 有任何程式的問題或Bug歡迎提出Issues！
+### 有任何程式的問題或<style = "color:red;">Bug</style>歡迎提出Issues！
