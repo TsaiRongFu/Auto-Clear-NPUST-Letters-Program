@@ -71,3 +71,5 @@ Auto-Clean-NPUST-Mail-Program Folder
 ---
 
 ### 有任何程式的問題或<label style = "color:red;">Bug</label>歡迎提出Issues！
+
+![TsaiRongFu/Auto-Clear-NPUST-Letters-Program Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTsaiRongFu%2FAuto-Clear-NPUST-Letters-Program&count_bg=%23F51DD0&title_bg=%234B4B4B&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
