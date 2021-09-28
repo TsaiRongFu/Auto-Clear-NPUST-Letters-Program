@@ -16,7 +16,6 @@ icon.close()
 window.iconbitmap('Auto-Clean-NPUST-Mail-Program-Icon.ico')
 os.remove("Auto-Clean-NPUST-Mail-Program-Icon.ico")
 
-
 def PopUpWindow(message):
     if (message.split(',')[0] == "Info"):
         messagebox.showinfo("系統提醒：", message.split(',')[1])
