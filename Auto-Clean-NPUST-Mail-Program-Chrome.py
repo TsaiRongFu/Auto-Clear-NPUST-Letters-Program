@@ -44,7 +44,7 @@ def AutoLogin():
         PopUpWindow(message)
         password_no_value_label.grid(column=1, row=3, ipadx=5, pady=5, sticky=tk.E+tk.W)
     else:
-        browser = webdriver.Chrome('chromedriver.exe')
+        browser = webdriver.Chrome()
         browser.get('https://mail.npust.edu.tw/')
         browser.find_element_by_name("USERID").send_keys(accountContent)
         time.sleep(0.5)
@@ -70,7 +70,7 @@ def AutoLogin():
             
 def ManualLogin():
     global browser
-    browser = webdriver.Chrome('chromedriver.exe')
+    browser = webdriver.Chrome()
     browser.get('https://mail.npust.edu.tw/')
     
 def LockAutoButton():
