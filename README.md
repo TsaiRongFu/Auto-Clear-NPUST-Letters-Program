@@ -18,7 +18,7 @@
     * Auto-Clean-NPUST-Mail-Program.exe
     * chromedriver.exe
     
-    或
+        或
 
     * 直接下載Auto-Clean-NPUST-Mail-Program.zip
 解壓縮就有了
