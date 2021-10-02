@@ -57,7 +57,7 @@ Auto-Clean-NPUST-Mail-Program Folder
 └────Auto-Clean-NPUST-Mail-Program.exe
 └────chromedriver.exe
 ```
-| 直接點擊運行Auto-Clean-NPUST-Mail-Program.exe即可 |
+### 直接點擊運行Auto-Clean-NPUST-Mail-Program.exe即可 
 
 *   ### **登入分為兩種**
     * ### **第一種為手動登入**
