@@ -2,8 +2,8 @@
 
 先決條件：
 *   Windows&nbsp;&nbsp;x64&nbsp;&nbsp;(64位元系統）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前尚未開發32位元應用
-*   Chrome or Firefox or Edge網頁瀏覽器&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前尚未開發~~Firefox~~、~~Edge~~、Opera、IE、PhantomJS版本
-*   ChromeDriver or FirefoxDrive or EdgeDrive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;專案Releases已經附上各版本
+*   Chrome **or** Firefox **or** Edge網頁瀏覽器&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前尚未開發~~Firefox~~、~~Edge~~、Opera、IE、PhantomJS版本
+*   ChromeDriver **or** FirefoxDrive **or** EdgeDrive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;專案Releases已經附上各版本
 
 ### 以下範例為Chrome，如使用Edge、Firefox，原理相同！
 ---
