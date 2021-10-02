@@ -27,7 +27,8 @@
 
     * https://chromedriver.chromium.org/
 
-        舊版網站畫面![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/ChromeDriveWeb.png)
+        舊版網站畫面!
+        [image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/ChromeDriveWeb.png)
 
         
         新版網站畫面
@@ -35,6 +36,8 @@
 
 * 如果Releases(發行版本)中沒有符合您Firefox版本的FirefoxDrive，請至下方連結下載符合您版本的FirefoxDrive
      * https://github.com/mozilla/geckodriver/releases
+
+
 
 * 如果Releases(發行版本)中沒有符合您Edge版本的EdgeDrive，請至下方連結下載符合您版本的EdgeDrive
      * https://developer.microsoft.com/zh-tw/microsoft-edge/tools/webdriver/ 
