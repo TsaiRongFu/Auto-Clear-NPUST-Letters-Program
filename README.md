@@ -44,7 +44,7 @@
      * https://developer.microsoft.com/zh-tw/microsoft-edge/tools/webdriver/ 
 
          網站畫面
-         [image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/FirefoxDriveWeb.png)
+         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/FirefoxDriveWeb.png)
 ---
 
 ## 操作範例(以發行版本中的v1.2為例)
