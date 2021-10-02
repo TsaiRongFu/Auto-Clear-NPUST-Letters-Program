@@ -1,7 +1,7 @@
 # NPUST信箱自動清除器 
 
 先決條件：
-*   Windows&nbsp;&nbsp;x64&nbsp;&nbsp;(64位元系統)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前尚未開發32位元應用
+*   Windows&nbsp;&nbsp;x64&nbsp;&nbsp;(64位元系統）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前尚未開發32位元應用
 *   Chrome or Firefox or Edge網頁瀏覽器&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前尚未開發~~Firefox~~、~~Edge~~、Opera、IE、PhantomJS版本
 *   ChromeDriver or FirefoxDrive or EdgeDrive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;專案Releases已經附上各版本
 
@@ -32,6 +32,14 @@
         
         新版網站畫面
         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/ChromeDriveWebNewPage.png)
+
+* 如果Releases(發行版本)中沒有符合您Firefox版本的FirefoxDrive，請至下方連結下載符合您版本的FirefoxDrive
+     * https://github.com/mozilla/geckodriver/releases
+
+* 如果Releases(發行版本)中沒有符合您Edge版本的EdgeDrive，請至下方連結下載符合您版本的EdgeDrive
+     * https://developer.microsoft.com/zh-tw/microsoft-edge/tools/webdriver/ 
+---
+
 ## 操作範例(以發行版本中的v1.2為例)
 
 <br>
