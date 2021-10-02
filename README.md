@@ -38,13 +38,13 @@
      * https://github.com/mozilla/geckodriver/releases
 
          網站畫面
-         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/EdgeDriveWeb.png)
+         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/FirefoxDriveWeb.png)
 
 * 如果Releases(發行版本)中沒有符合您Edge版本的EdgeDrive，請至下方連結下載符合您版本的EdgeDrive
      * https://developer.microsoft.com/zh-tw/microsoft-edge/tools/webdriver/ 
 
          網站畫面
-         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/FirefoxDriveWeb.png)
+         ![image](https://github.com/TsaiRongFu/Auto-Clear-NPUST-Letters-Program/blob/main/README_Picture/EdgeDriveWeb.png)
 ---
 
 ## 操作範例(以發行版本中的v1.2為例)
